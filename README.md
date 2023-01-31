@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> I'm Diego Mattioli</h1>
 <h3 align="center">A passionate web developer from Argentina 🚀</h3> 
 <img align="right" alt="Coding" width="400" src="https://3.bp.blogspot.com/--3ujmd_vQow/WhcKdQmDLwI/AAAAAAAAGoA/aaozNnEQzfEyUpGn55SgKya2iCC0k29KQCPcBGAYYCw/s1600/onlinemarketingsachin-1estrategia%2Bde%2Bseo%2B3masgroupmarketing.gif">
-- 🌱 I’m currently learning **REACT & NODEjs**
+
 - 🌱 I’m currently learning REACT & NODEjs
 
 - 📫 How to reach me **diegonicolasmattioli@gmail.com**
